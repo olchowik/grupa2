@@ -43,4 +43,4 @@ List recipes view
 ![list view](https://image.ibb.co/jLftRG/recipes.png)
 
 Recipe view  
-![Recipe view](https://image.ibb.co/kouL6G/recipe.png)
+![Recipe view](hhttps://camo.githubusercontent.com/0cdbe04cc9b8ff976c4cbb64ee01aff647f4890d/68747470733a2f2f696d6167652e6962622e636f2f6b6f754c36472f7265636970652e706e67)
