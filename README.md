@@ -7,19 +7,34 @@ As you probably already deduced from title, main theme is `Smart Cookbook`. We'l
 
 ## User stories
 As a user:
-1. I'm able to display list of all recipes
-2. I'm able to filter list of recipes specifying one or more ingredients
-3. I can view single recipe
-4. In a single recipe view, I can see dish picture, list of ingredients and detailed steps how to create it
-5. I can add new recipe
-6. I'm able to display list of all possible ingredients and filter it by name
-7. I can view single ingredient
-8. In a single ingredient view, I can see picture and short description, as well as list with all recipes using that ingredient
-9. I can add new ingredient
+* I'm able to display list of all recipes
+* I'm able to filter list of recipes specifying one or more ingredients
+* I can view single recipe
+* In a single recipe view, I can see dish picture, list of ingredients and detailed steps how to create it
+* I can add new recipe
+* I'm able to display list of all possible ingredients and filter it by name
+* I can view single ingredient
+* In a single ingredient view, I can see picture and short description, as well as list with all recipes using that ingredient
+* I can add new ingredient
 
+Optional:
+* I can add / remove dish to/from cart
+* I can see what ingredients I have to buy to cook dishes in a cart. Also, I can see their price.
 
+## Models
+**Recipe**:
+- id
+- name
+- picture
+- description
+- cooking steps
+- preparation time
+- list of ingredients with quantities
 
-
-
+**Ingredient**:
+- id
+- name
+- description
+- price (optional)
 
 
