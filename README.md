@@ -6,7 +6,7 @@ As you probably already deduced from title, main theme is `Smart Cookbook`. We'l
 
 
 ## User stories
-As a user:
+As an user:
 * I'm able to display list of all recipes
 * I'm able to filter list of recipes specifying one or more ingredients
 * I can view single recipe
@@ -37,4 +37,10 @@ Optional:
 - description
 - price (optional)
 
+## Views
 
+List recipes view  
+![list view](https://image.ibb.co/jLftRG/recipes.png)
+
+Recipe view  
+![Recipe view](https://image.ibb.co/kouL6G/recipe.png)
