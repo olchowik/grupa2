@@ -7,7 +7,7 @@ const Content = props => {
     <Menu size="large" stackable>
       <Container>
         <Menu.Item header>WarsawJS - SmartCookbok</Menu.Item>
-        <Menu.Item as={Link} to={'/'} name="features">
+        <Menu.Item as={Link} to={'/lol'} name="features">
           Lista przepisów
         </Menu.Item>
       </Container>

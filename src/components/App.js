@@ -9,11 +9,9 @@ import Sidebar from './Sidebar';
 class App extends Component {
   render() {
     return (
-      <Provider {...this.props}>
         <Router>
           <Layout sidebar={<Sidebar />} content={<Content />} />
         </Router>
-      </Provider>
     );
   }
 }

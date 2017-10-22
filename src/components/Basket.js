@@ -1,12 +1,10 @@
 import React from 'react';
-
-import IngredientsPrice from '../containers/IngredientsPrice';
 import SelectedRecipe from './SelectedRecipe';
 
 const IngredientsList = ({ match }) => {
   return (
     <div>
-      <IngredientsPrice id={match.params.recipeId} />
+      Tutaj będzie IngredientsPrice
       <SelectedRecipe id={match.params.recipeId} />
     </div>
   );
